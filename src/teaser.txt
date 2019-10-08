@@ -1,0 +1,5 @@
+Advertiser: Your Business Name
+Subject: Your Subject Text
+Description: Your Description Text
+Display Url: www.example.com
+Landing Page: https://www.example.com/myad
